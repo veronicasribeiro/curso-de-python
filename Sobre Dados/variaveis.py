@@ -3,7 +3,7 @@ print(velocidade_internet)
 # Quais os tipos de dado que podemos armazenar no computador? Tipos Primitivos
 # Números -> velocidade_internet = 10
 # Valores Boleanos -> esta_aberta = True  (True or  False)
-# Strings -> slogan = 'Feito é melhor que perfeito!' (aspas duplas também funcionam)
+# Strings -> slogan = 'Feito é melhor que perfeito!' (aspas duplas também funcionam)cu
 
 # ampac
 a,b,c,d = 1,2,3,4
